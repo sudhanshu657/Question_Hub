@@ -1,5 +1,5 @@
 import React from 'react'
-import Quiz from './Component/quiz/quiz'
+import Quiz from './Component/quiz/Quiz'
 
 
 const App = () => {
